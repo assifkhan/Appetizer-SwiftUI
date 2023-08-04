@@ -17,7 +17,7 @@ struct AppetizerContextView: View {
             Text("Corbs: \(request.carbs)")
             Text("Calories: \(request.calories)")
             Text("Protein: \(request.protein)")
-            Text(request.description)
+            Text("Detail: \(request.description)")
                 .lineLimit(2)
         }
         .padding()
