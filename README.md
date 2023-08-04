@@ -7,19 +7,19 @@
   <tbody>
     <tr>
       <td>
-        <img src="https://github.com/assifkhan/Appetizer-SwiftUI/assets/61091124/232517a9-7536-487d-b6d4-a63d28d13912">
+        <img src="https://github.com/assifkhan/Appetizer-SwiftUI/assets/61091124/44681029-f820-4c0d-b3d5-de01f602a9bf">
       </td>
       <td>
-        <img src="https://github.com/assifkhan/Appetizer-SwiftUI/assets/61091124/c089ee3a-73ad-4f0e-805f-6ff12a0bddea">
+        <img src="https://github.com/assifkhan/Appetizer-SwiftUI/assets/61091124/4ca197d6-6993-4def-984c-5e73d81ed7f2">
       </td>
     </tr>
   </tbody>
      <tr>
       <td>
-        <img src="https://github.com/assifkhan/Appetizer-SwiftUI/assets/61091124/ce464d5d-8935-45a9-8b86-9091fffce48f">
+        <img src="https://github.com/assifkhan/Appetizer-SwiftUI/assets/61091124/b32f0791-6e1f-42a1-be93-ecd11cb3a630">
       </td>
       <td>
-        <img src="https://github.com/assifkhan/Appetizer-SwiftUI/assets/61091124/cad652a6-7aa4-4515-8aa5-9a2c48e57b50">
+        <img src="https://github.com/assifkhan/Appetizer-SwiftUI/assets/61091124/f18589da-81da-4cd8-a46a-9a33dbf9d6c5">
       </td>
     </tr>
 </table>
